@@ -33,5 +33,7 @@ transpileing is compiling to another structure/language at the same level of abs
 ## Chapter 1: TypeScript Language Features
 Javascript is valid TypeScript
 
+<B>The "let" keyword lets variable names be reused in narrower scopes!</B>
+* The recommended coding style is to start by using the const keyard for all variables and open a varialbe to reassignment with the let keyword if reassignment is allowed.  Least privilege principle.
 
 *** Stuff thats done
